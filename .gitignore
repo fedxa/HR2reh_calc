@@ -1,0 +1,8 @@
+*.synctex.gz
+*.aux
+*.log
+*.blg
+.ipynb_checkpoints
+*.fls
+*.fdb_latexmk
+*.out
